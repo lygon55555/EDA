@@ -6,6 +6,7 @@ Tacotron - generating 손석희's voice <br>
 Kakao Maps API - showing Korea map <br>
 React - Web front-end <br>
 Collected 손석희's voice datasets from JTBC 뉴스룸.<br>
+**A web server with a tacotron model is required**
 
 In order to run this app:
 
