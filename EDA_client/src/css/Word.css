@@ -1,0 +1,50 @@
+.shapes {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+@media screen and (max-width: 40em) {
+	.slide .word {
+		font-size: 2em;
+	}
+}
+
+.close {
+	position: absolute !important;
+	top: 20px;
+	left: 20px;
+	z-index: 9999;
+	color: #fff;
+	/* border-radius: 50%; */
+	padding: 15px !important;
+}
+
+.showComp{
+	display: flex;
+	flex-direction: row;
+}
+
+#map{
+	position: absolute !important;
+	top : 0;
+	right : 0;
+
+	width : 50%;
+	height : 100%;
+	margin-left : auto;
+}
+
+#disasterText{
+	position: absolute !important;
+	top : 40%;
+	left : 3%;
+
+	width : 46%;
+	height : 20%;
+
+	font-size: 2rem;
+	line-height : 1.7em;
+	
+	text-align:center;
+}
