@@ -2,11 +2,12 @@
 ![화면 기록 2019-12-05 오후 8 22 45 2019-12-05 20_25_31](https://user-images.githubusercontent.com/39911797/70231999-c96f2f00-179e-11ea-87ee-19f2eea75388.gif)
 
 ## EDA is Emergency Disaster Alert.
+In the event of a disaster, it takes a long time for the announcer to prepare for the broadcast himself.
+A web server with a tacotron model is required.
 Tacotron - generating 손석희's voice <br>
 Kakao Maps API - showing Korea map <br>
 React - Web front-end <br>
 Collected 손석희's voice datasets from JTBC 뉴스룸.<br>
-**A web server with a tacotron model is required**
 
 In order to run this app:
 
@@ -23,7 +24,7 @@ Start the app
 npm run start
 ```
 
-## Speech Manual
+## Text Manual (Disaster message form)
 ```
 [행정안전부] 오늘 부산 지역에 폭염 경보 발령으로 주의바랍니다.
 [서울시청] 서울에 미세먼지 주의. 외출 자제, 수분 섭취 중요.
