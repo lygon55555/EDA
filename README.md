@@ -3,7 +3,7 @@
 
 ## EDA is Emergency Disaster Alert.
 In the event of a disaster, it takes a long time for the announcer to prepare for the broadcast himself.<br>
-With a disaster message, EDA makes emergency broadcast automatically.<br><br>
+With a emergency disaster message, EDA makes emergency broadcast automatically.<br><br>
 A web server with a tacotron model is required.<br>
 Tacotron - generating 손석희's voice <br>
 Kakao Maps API - showing Korea map <br>
