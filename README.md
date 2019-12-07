@@ -15,7 +15,8 @@ In order to run this app:
 ```js
 npm install
 ```
-Add script tag inside of head tag of public/index.html
+Add script tag inside of head tag of public/index.html<br>
+You need your own verified app key.
 ```
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=YOUR VERIFIED APP KEY&libraries=services,clusterer"></script>
 ```
